@@ -1,3 +1,13 @@
+## 0.4.1 — Complete writable command routing
+
+- Route every writable SDK catalog variant, including trim and parking brake.
+- Preserve Value/Step/Move/Toggle/Event semantics with optional `flag` selection.
+- Support typed vector and UTF-16 string commands, strict JSON and SDK access checks.
+- Keep existing dotted propeller/engine aliases; reject read-only telemetry writes.
+- Replace duplicated hand-written command routing with the shared catalog.
+- Add exhaustive production-router tests and real-DLL TCP/WebSocket tests.
+- Fix upstream logger inclusion, controller namespace conflict and test linking.
+
 # Changelog
 
 All notable changes to this project will be documented in this file.

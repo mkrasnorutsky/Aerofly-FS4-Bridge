@@ -1,5 +1,10 @@
 # Aerofly FS4 Bridge DLL (Public)
 
+This fork includes complete routing for all 197 writable SDK message variants,
+including trim, parking brake and typed commands. See
+[command support and validation](docs/command_support.md) for the protocol,
+coverage and limitations. Build with CMake to resolve dependencies.
+
 A multi-interface bridge (Shared Memory, TCP, WebSocket) between Aerofly FS4 and external apps.
 
 ## Quick install (users)

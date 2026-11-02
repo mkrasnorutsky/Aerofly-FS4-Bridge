@@ -1,0 +1,1612 @@
+[
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 8895319036652238806,
+    "type": 6,
+    "value": "F2G123",
+    "variable": "FlightManagementSystem.FlightNumber"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 17593859179952993946,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.SelectedCourse1"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 17592902604836639601,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.SelectedCourse2"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 15931134468637103689,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.NAV1Frequency"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 6831603561241995926,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.NAV1StandbyFrequency"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 11604764830120996076,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.NAV1FrequencySwap"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 15499073049698525088,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.NAV2Frequency"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 10809523826791602585,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.NAV2StandbyFrequency"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 1420635929181711353,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.NAV2FrequencySwap"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 17499023304830710624,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.DME1Frequency"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 18424624610577669551,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.DME1Distance"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 1264659263436034693,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.DME1Time"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 10449746987074084867,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.DME1Speed"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11215540584891215369,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.DME2Frequency"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 5191249281565470620,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.DME2Distance"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 17389055016506922486,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.DME2Time"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 561919467593074226,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.DME2Speed"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 12151675332627126977,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ILS1Course"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 13205436258523699752,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ILS1Frequency"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 14962670811571009905,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ILS1StandbyFrequency"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 11904712736929118209,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ILS1FrequencySwap"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 4319162540037975714,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ILS2Course"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 3782014487731172561,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ILS2Frequency"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 10857724012868384558,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ILS2StandbyFrequency"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 1781357668311235636,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ILS2FrequencySwap"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 17505889930247671037,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ADF1Frequency"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 9788307994940249274,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ADF1StandbyFrequency"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 6254591475728145912,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ADF1FrequencySwap"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 1806455868715605060,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ADF2Frequency"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 8544915276731550077,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ADF2StandbyFrequency"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 10414369023412497781,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Navigation.ADF2FrequencySwap"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 17258391376436792205,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Communication.COM1Frequency"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 1052261278349174410,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Communication.COM1StandbyFrequency"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 4583177842371791656,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Communication.COM1FrequencySwap"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 2304796414923527700,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Communication.COM2Frequency"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 16751957143674380429,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Communication.COM2StandbyFrequency"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 15430673822465199525,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Communication.COM2FrequencySwap"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 8326683624263626171,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Communication.COM3Frequency"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 5834459089604722696,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Communication.COM3StandbyFrequency"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 9258001932434689118,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Communication.COM3FrequencySwap"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 1147223356124949722,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Communication.TransponderCode"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 570175028043990967,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Communication.TransponderCursor"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 12543074482938820172,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Autopilot.Master"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 2060150757440001159,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Autopilot.Disengage"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 15873981855951463232,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Autopilot.Heading"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 14449879770140881613,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Autopilot.VerticalSpeed"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 8906916277772168774,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Autopilot.SelectedSpeed"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 15377252473780832204,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Autopilot.SelectedAirspeed"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 6326067984518996137,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Autopilot.SelectedHeading"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 12761633460181185707,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Autopilot.SelectedAltitude"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 15876173977598233900,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Autopilot.SelectedVerticalSpeed"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11544952977817071161,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Throttle"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11436420674672964898,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Throttle1"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11435464099556610553,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Throttle2"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11434507524440256208,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Throttle3"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11441203550254736623,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Throttle4"
+  },
+  {
+    "flag": "Move",
+    "flags": 16384,
+    "id": 11436420674672964898,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Throttle1"
+  },
+  {
+    "flag": "Move",
+    "flags": 16384,
+    "id": 11435464099556610553,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Throttle2"
+  },
+  {
+    "flag": "Move",
+    "flags": 16384,
+    "id": 11434507524440256208,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Throttle3"
+  },
+  {
+    "flag": "Move",
+    "flags": 16384,
+    "id": 11441203550254736623,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Throttle4"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 7450064147341022331,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Pitch.Input"
+  },
+  {
+    "flag": "None",
+    "flags": 8,
+    "id": 7450064147341022331,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Pitch.Input"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 14982566837590935174,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Roll.Input"
+  },
+  {
+    "flag": "None",
+    "flags": 8,
+    "id": 14982566837590935174,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Roll.Input"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 1153777193319290004,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Yaw.Input"
+  },
+  {
+    "flag": "None",
+    "flags": 128,
+    "id": 1153777193319290004,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Yaw.Input"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 13747624270694308523,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Flaps"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 13747624270694308523,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Flaps"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 4303313407754820788,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Gear"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 4303313407754820788,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Gear"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 13764516935540898596,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.WheelBrake.Left"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 14672888734366148827,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.WheelBrake.Right"
+  },
+  {
+    "flag": "None",
+    "flags": 128,
+    "id": 13764516935540898596,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.WheelBrake.Left"
+  },
+  {
+    "flag": "None",
+    "flags": 128,
+    "id": 14672888734366148827,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.WheelBrake.Right"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 14018733540713345120,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.AirBrake"
+  },
+  {
+    "flag": "None",
+    "flags": 128,
+    "id": 14018733540713345120,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.AirBrake"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 15851270047031006932,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.AirBrake.Arm"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 8701482706818183703,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.GliderAirBrake"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11097578774454969444,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PropellerSpeed1"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11100448499804032479,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PropellerSpeed2"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11099491924687678134,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PropellerSpeed3"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11094709049105906409,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PropellerSpeed4"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11722604716325643235,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Mixture"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 6362783637996948000,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Mixture1"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 6365653363346011035,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Mixture2"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 6364696788229656690,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Mixture3"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 6367566513578719725,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Mixture4"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 6170637137200629467,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.ThrustReverse"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 3441555549955681096,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.ThrustReverse1"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 3444425275304744131,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.ThrustReverse2"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 3443468700188389786,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.ThrustReverse3"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 3446338425537452821,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.ThrustReverse4"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 8659098900066789161,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Collective"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 8007464507737768982,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.CyclicPitch"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 13439039348411174061,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.CyclicRoll"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 13024082005881928909,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.TailRotor"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11298493471858099904,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.RotorBrake"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 17844671881690908543,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.HelicopterThrottle1"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 17841802156341845508,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.HelicopterThrottle2"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11192561426775330905,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Trim"
+  },
+  {
+    "flag": "Step",
+    "flags": 32768,
+    "id": 11192561426775330905,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Trim"
+  },
+  {
+    "flag": "Move",
+    "flags": 16384,
+    "id": 11192561426775330905,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Trim"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 1692704574096492207,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.AileronTrim"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 4574702875688925507,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.RudderTrim"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 15924250701861604729,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Tiller"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 17454137842391773036,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PedalsDisconnect"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 3793018485686595064,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.NoseWheelSteering"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 17298568039668668469,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Lighting.Panel"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 4708772566824068169,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Lighting.Instruments"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 16720144755098367900,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PressureSetting0"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 1329180437271702937,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PressureSettingStandard0"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 7014735775413094418,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PressureSettingUnit0"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 16721101330214722245,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PressureSetting1"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 1328223862155348592,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PressureSettingStandard1"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 7015692350529448763,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PressureSettingUnit1"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 16722057905331076590,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PressureSetting2"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 1331093587504411627,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PressureSettingStandard2"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 7012822625180385728,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.PressureSettingUnit2"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 18446298885665263417,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Pressurization.LandingElevation"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 645564572854041375,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Pressurization.LandingElevationManual"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 5527944780585428584,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Warnings.MasterWarning"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 11943521209181573693,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Internal"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 8155001489045336093,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Follow"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 14635431659136529387,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.External"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 16663660264623039694,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Category"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 16147762961410796779,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Mode"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 3635032470560461387,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Zoom"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 2342291797945197475,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Pan.Horizontal"
+  },
+  {
+    "flag": "Move",
+    "flags": 16384,
+    "id": 2342291797945197475,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Pan.Horizontal"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 12060922211901487593,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Pan.Vertical"
+  },
+  {
+    "flag": "Move",
+    "flags": 16384,
+    "id": 12060922211901487593,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Pan.Vertical"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 17863719105423326980,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Pan.Center"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 3447541877284934275,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Look.Horizontal"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 4018988985339600329,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Look.Vertical"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 1069784180426509143,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Roll"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 9327032441506808453,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.OffsetX"
+  },
+  {
+    "flag": "Move",
+    "flags": 16384,
+    "id": 9327032441506808453,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.OffsetX"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 9326075866390454108,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.OffsetY"
+  },
+  {
+    "flag": "Move",
+    "flags": 16384,
+    "id": 9326075866390454108,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.OffsetY"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 9328945591739517143,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.OffsetZ"
+  },
+  {
+    "flag": "Move",
+    "flags": 16384,
+    "id": 9328945591739517143,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.OffsetZ"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 14119327784650313863,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Position"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 6772110281618212757,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Direction"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 1896330252444740301,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.Up"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 5544414960754679606,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.FieldOfView"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 1043208411869267963,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.AspectRatio"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 6313618979884396881,
+    "type": 4,
+    "value": [
+      1.0,
+      -2.0,
+      3.0
+    ],
+    "variable": "View.FreePosition"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11207720953924319900,
+    "type": 4,
+    "value": [
+      1.0,
+      -2.0,
+      3.0
+    ],
+    "variable": "View.FreeLookDirection"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 9607443666230980799,
+    "type": 4,
+    "value": [
+      1.0,
+      -2.0,
+      3.0
+    ],
+    "variable": "View.FreeUp"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 7288000411627056232,
+    "type": 2,
+    "value": -0.375,
+    "variable": "View.FreeFieldOfView"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 1148544305034946878,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.Pause"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 11355769698960009648,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.FlightInformation"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 7452753481558269592,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.MovingMap"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 1409015237756988677,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.Sound"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 9296807976409347336,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.LiftUp"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 1783414734430389781,
+    "type": 4,
+    "value": [
+      1.0,
+      -2.0,
+      3.0
+    ],
+    "variable": "Simulation.SettingPosition"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 1799004345319222282,
+    "type": 5,
+    "value": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "variable": "Simulation.SettingOrientation"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 6487489750342604461,
+    "type": 4,
+    "value": [
+      1.0,
+      -2.0,
+      3.0
+    ],
+    "variable": "Simulation.SettingVelocity"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 6366423801077216484,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.SettingSet"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 8726569087768411635,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.TimeChange"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 6861843505236084396,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.Visibility"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 11288267350472106483,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.Time"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 14798885079102158025,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.UseMouseControl"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 11758127926263538913,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.PlaybackStart"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 10844810868553225835,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.PlaybackStop"
+  },
+  {
+    "flag": "None",
+    "flags": 0,
+    "id": 12390179657683736426,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Simulation.PlaybackPosition"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 10604376848030284468,
+    "type": 4,
+    "value": [
+      1.0,
+      -2.0,
+      3.0
+    ],
+    "variable": "Simulation.ExternalPosition"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 9897753120402840409,
+    "type": 5,
+    "value": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "variable": "Simulation.ExternalOrientation"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 6991451376424299945,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Command.Execute"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 10451038580927929837,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Command.Back"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 2428625097951909691,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Command.Up"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 16976789202028593728,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Command.Down"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 7838363142718849967,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Command.Left"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 7931186380263363178,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Command.Right"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 2450987120670554967,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Command.MoveHorizontal"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 10026954962886104933,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Command.MoveVertical"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 319858100878477193,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Command.Rotate"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 10161810453219499397,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Command.Zoom"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 1629177311768369106,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Speed"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 1575878801233722818,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.FuelSelector"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 10424426920622346190,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.FuelShutOff"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 4320454774798160990,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.HideYoke.Left"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 16091398626762572949,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.HideYoke.Right"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 10659959697689533706,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.LeftSunBlocker"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 1895644146755115325,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.RightSunBlocker"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 1933787809772658575,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Lighting.LeftCabinOverheadLight"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 17869005462612222976,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Lighting.RightCabinOverheadLight"
+  },
+  {
+    "flag": "Value",
+    "flags": 64,
+    "id": 491481079414931550,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Magnetos1"
+  },
+  {
+    "flag": "Toggle",
+    "flags": 32,
+    "id": 3742175007138818212,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.ParkingBrake"
+  },
+  {
+    "flag": "Step",
+    "flags": 32768,
+    "id": 11192561426775330905,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Controls.Trim"
+  },
+  {
+    "flag": "Event",
+    "flags": 16,
+    "id": 2059557203774748406,
+    "type": 2,
+    "value": -0.375,
+    "variable": "LeftYoke.Button"
+  },
+  {
+    "flag": "Step",
+    "flags": 32768,
+    "id": 2112676543979798387,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Doors.Left"
+  },
+  {
+    "flag": "Step",
+    "flags": 32768,
+    "id": 8728401985938426621,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Doors.LeftHandle"
+  },
+  {
+    "flag": "Step",
+    "flags": 32768,
+    "id": 28093576443588678,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Doors.Right"
+  },
+  {
+    "flag": "Step",
+    "flags": 32768,
+    "id": 4044360331245572756,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Doors.RightHandle"
+  },
+  {
+    "flag": "Step",
+    "flags": 32768,
+    "id": 8187292356931130247,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Windows.Left"
+  },
+  {
+    "flag": "Step",
+    "flags": 32768,
+    "id": 8744143336763207266,
+    "type": 2,
+    "value": -0.375,
+    "variable": "Windows.Right"
+  }
+]

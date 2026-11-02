@@ -40,6 +40,7 @@
 
 #include <string>
 #include <memory>
+#include <spdlog/spdlog.h>
 
 // Forward declare spdlog types to avoid including heavy headers
 namespace spdlog {

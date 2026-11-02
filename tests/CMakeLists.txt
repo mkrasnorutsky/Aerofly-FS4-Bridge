@@ -16,8 +16,8 @@ list(APPEND CMAKE_MODULE_PATH "${catch2_SOURCE_DIR}/extras")
 
 # Create main test executable with all test files
 add_executable(AeroflyBridge_Tests
-    main.cpp
     test_helpers.h
+    ../src/logging/logger.cpp
     unit/test_variable_mapper.cpp
     unit/test_json_builder.cpp
     unit/test_command_processor.cpp

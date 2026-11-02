@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.15)
 
 # Project declaration
 project(AeroflyBridge
-    VERSION 0.4.0
+    VERSION 0.4.1
     DESCRIPTION "Multi-interface bridge (Shared Memory, TCP, WebSocket) for Aerofly FS4"
     LANGUAGES CXX
 )
@@ -31,6 +31,12 @@ FetchContent_Declare(
     GIT_SHALLOW TRUE
 )
 FetchContent_MakeAvailable(spdlog)
+
+FetchContent_Declare(nlohmann_json
+    GIT_REPOSITORY https://github.com/nlohmann/json.git
+    GIT_TAG v3.11.3
+    GIT_SHALLOW TRUE)
+FetchContent_MakeAvailable(nlohmann_json)
 
 # Find Aerofly SDK header (tm_external_message.h)
 # Users can set AEROFLY_SDK_PATH to override search
@@ -116,6 +122,7 @@ target_link_libraries(AeroflyBridge PRIVATE
     kernel32    # Windows kernel
     user32      # Windows user32
     spdlog::spdlog_header_only  # Logging library
+    nlohmann_json::nlohmann_json
 )
 
 # Set output directory
@@ -148,6 +155,10 @@ endif()
 # Testing configuration
 if(BUILD_TESTING)
     enable_testing()
+    add_executable(CommandContractTests tests/command_contract.cpp)
+    target_include_directories(CommandContractTests PRIVATE include ${AEROFLY_SDK_PATH})
+    target_link_libraries(CommandContractTests PRIVATE nlohmann_json::nlohmann_json)
+    add_test(NAME command_contract COMMAND CommandContractTests)
     add_subdirectory(tests)
 endif()
 
